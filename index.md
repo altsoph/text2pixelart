@@ -19,9 +19,11 @@ The code of some tricks is published already; other hacks are on their way to be
 
 ## Parallax demos
 
-_\[shadows of magic forest\]_
+![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/mars.mp4.gif)
 
-![Image](https://github.com/altsoph/text2pixelart/blob/main/parala5a10.mp4.gif)
+![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/parala5a10.mp4.gif)
+
+## Spiral demos
 
 ![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/romanesco_swirl.mp4.gif)
 
