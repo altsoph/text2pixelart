@@ -1,3 +1,30 @@
+## balh
+
+This project explores opportunities for an unsupervised generation of animated pixel-art based on the given text prompt. 
+
+As the base, I used PixelDraw by @dribnet, based on the ClipDraw library, which in turn is based on the diffvg library. 
+
+First, I've implemented some handy options, such as smoothness enforcement, palette enforcement, and saturation enforcement. Next, I've exploited the CLIP's "healing" ability and a couple of "demoscene" tricks to keep the coherence between adjacent frames to make several different animations: the infinite panorama, the parallax effect, the 3d swirl around the object, the moving background, the endless looping, and so on. 
+
+I've tried to give a tribute to old-school classics (using prompts like `fallout`, `r-type`, and `Guybrush Threepwood`) and to explore the fractal and space thematics, trying to find the best match between the prompt and the effect in each case. 
+
+The code of some tricks is published already; other hacks are on their way to be publicly available.
+
+## Parallax demos
+
+_\[shadows of magic forest\]_
+
+![Image](https://github.com/altsoph/text2pixelart/blob/main/parala5a10.mp4.gif)
+
+
+
+## text1
+
+
+[Link](url) and ![Image](src)
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/altsoph/text2pixelart/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
