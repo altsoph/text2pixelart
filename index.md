@@ -10,6 +10,13 @@ I've tried to give a tribute to old-school classics (using prompts like `fallout
 
 The code of some tricks is published already; other hacks are on their way to be publicly available.
 
+## Panorama demos
+
+![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/colors2b.mp41.gif)
+
+![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/green1a.mp4.gif)
+
+
 ## Parallax demos
 
 _\[shadows of magic forest\]_
