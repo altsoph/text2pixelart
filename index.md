@@ -1,4 +1,4 @@
-## balh
+## Text2pixelart demos
 
 This project explores opportunities for an unsupervised generation of animated pixel-art based on the given text prompt. 
 
@@ -16,6 +16,7 @@ The code of some tricks is published already; other hacks are on their way to be
 
 ![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/green1a.mp4.gif)
 
+[The demo colab is here](https://github.com/altsoph/text2pixelart/blob/main/Pixray_Panorama_Demo.ipynb).
 
 ## Parallax demos
 
