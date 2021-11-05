@@ -37,6 +37,9 @@ The code of some tricks is published already; other hacks are on their way to be
 ![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/romanesco_swirl.mp4.gif)
 
 [More tricks](https://twitter.com/altsoph/status/1437797243956998147)
+
+[The demo colab is here](https://github.com/altsoph/text2pixelart/blob/main/Pixray_Swirl_Demo.ipynb).
+
 ## Moving background demos
 
 ![Image](https://raw.githubusercontent.com/altsoph/text2pixelart/master/apoc4_demo_rev.mp4.gif)
